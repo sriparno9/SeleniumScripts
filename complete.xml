@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNg.Testvalid"/>
+      <class name="refression.regtc3"/>
+      <class name="TestNg.using_test"/>
+      <class name="refression.regtc1"/>
+      <class name="refression.regtc2"/>
+      <class name="systemtestsuite.sustc1"/>
+      <class name="TestNg.Titlevalidation"/>
+      <class name="systemtestsuite.systc2"/>
+      <class name="Sanity.santc1"/>
+      <class name="Sanity.santc2"/>
+      <class name="TestNg.first"/>
+      <class name="Sanity.santc3"/>
+      <class name="systemtestsuite.systc3"/>
+      <class name="TestNg.Annotataions"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
